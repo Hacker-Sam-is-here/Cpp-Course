@@ -1,3 +1,6 @@
+//Type Definition
+//-By Sam
+
 #include <iostream>
 #include <vector>
 

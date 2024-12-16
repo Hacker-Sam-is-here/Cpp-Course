@@ -1,3 +1,6 @@
+//Arithmetic Operators
+//-By Sam
+
 #include <iostream>
 
 

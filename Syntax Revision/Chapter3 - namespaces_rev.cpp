@@ -1,3 +1,6 @@
+//Namespaces
+//-By Sam
+
 #include <iostream>
 
 namespace first{
