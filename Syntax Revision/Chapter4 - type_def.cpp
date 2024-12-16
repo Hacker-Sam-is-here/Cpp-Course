@@ -1,4 +1,4 @@
-//Type Definition
+//Chapter 4 - Type Definition
 //-By Sam
 
 #include <iostream>

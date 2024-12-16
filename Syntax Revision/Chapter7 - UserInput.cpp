@@ -1,4 +1,4 @@
-//User Input
+//Chapter 7 - User Input
 //-By Sam
 
 #include <iostream>

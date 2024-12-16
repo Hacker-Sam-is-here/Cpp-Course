@@ -1,4 +1,4 @@
-//Variables
+//Chapter 2 - Variables
 //-By Sam
 
 

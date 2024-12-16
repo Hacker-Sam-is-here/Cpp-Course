@@ -1,4 +1,4 @@
-//Namespaces
+//Chapter 3 - Namespaces
 //-By Sam
 
 #include <iostream>

@@ -1,4 +1,4 @@
-//Arithmetic Operators
+//Chapter 5 - Arithmetic Operators
 //-By Sam
 
 #include <iostream>

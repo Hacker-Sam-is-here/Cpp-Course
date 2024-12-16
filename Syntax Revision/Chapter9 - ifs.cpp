@@ -1,4 +1,4 @@
-//If Statements
+//Chapter 9 - If Statements
 //-By Sam
 
 #include <iostream>
@@ -30,7 +30,7 @@ int main(){
         std::cout << "You are a teenager" << std::endl;
     }
 
-    else if(age == 12){ // agar age 12 ha
+    else if(age == 12){ // agar age 12 h
         std::cout << "Chal be Nibbe" << std::endl;
     }
 

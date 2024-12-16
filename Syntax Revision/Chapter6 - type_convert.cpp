@@ -1,3 +1,6 @@
+//Chapter 6 - Type Conversion
+//-By Sam
+
 #include <iostream>
 
 //Type Conversion

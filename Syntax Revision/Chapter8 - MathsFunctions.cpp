@@ -1,4 +1,4 @@
-//Maths Functions
+//Chapter 8 - Maths Functions
 //-By Sam
 
 #include <iostream>
