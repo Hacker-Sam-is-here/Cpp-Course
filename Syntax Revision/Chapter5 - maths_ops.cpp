@@ -18,7 +18,19 @@ int main() {
 
     //multiplication
     students = students*2;
-    
+    students *= 2;
+
+    //division
+    students = students/2;
+    students /= 2;
+
+    //remainder
+    students = students%2;
+    students %= 2;
+
+    //priority of operations
+    // PEMDAS: Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+
 
     return 0;
 }
