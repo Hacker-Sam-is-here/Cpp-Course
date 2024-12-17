@@ -71,7 +71,7 @@ Topics Covered:
 
 
 ## 🛠 Skills
-Python, Java, Bash, Nodejs, Javascript, HTML, CSS, C++, C#, Unity, Unreal
+Python, Java, Bash, Nodejs, Javascript, HTML, CSS, C++, C#, Unity, Unreal, Godot
 
 
 ## Authors
