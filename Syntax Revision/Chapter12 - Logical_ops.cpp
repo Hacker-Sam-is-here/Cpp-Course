@@ -4,6 +4,11 @@
 #include <iostream>
 
 int main() {
+
+    // && = and
+    // || = or
+    // ! = not
+
     int temp;
     bool sunny = true;
     std::cout << "Enter the temperature: " << std::endl;
