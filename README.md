@@ -69,11 +69,6 @@ Topics Covered:
 - Inheritance 👩‍👧‍👦
 
 
-
-## 🛠 Skills
-Python, Java, Bash, Nodejs, Javascript, HTML, CSS, C++, C#, Unity, Unreal, Godot
-
-
 ## Authors
 
 - [@Sam](https://www.github.com/Hacker-Sam-is-here)
