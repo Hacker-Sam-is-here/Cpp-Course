@@ -6,7 +6,7 @@
 //u can directly define a function and add your code or
 // declare it first and then add your code later in file
 
-void happybdayfunction(); //declaration
+void happybdayfunction(std::string name, int age); //declaration
 
 void happybdayfunction(std::string name, int age){ //function definintion with arguments similar to python
     std::cout << "Happy Birthday " << name << std::endl; //printing text + name from argument
