@@ -1,6 +1,4 @@
 
-# Hi, I'm Sam!! 👋
-
 
 # C++ Full Course
 
