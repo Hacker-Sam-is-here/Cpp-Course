@@ -77,9 +77,5 @@ Topics Covered:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samishere06/)
 
 
-## Roadmap
-
-- DSA Coming
-
 ## Views👁️
 ![Visitor Count](https://profile-counter.glitch.me/Hacker-Sam-is-here/count.svg)
