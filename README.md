@@ -2,8 +2,6 @@
 
 # C++ Full Course
 
-Starting from 0 all the way upto DSA
-
 Topics Covered:
 
 - Variables and basic data types ✗
